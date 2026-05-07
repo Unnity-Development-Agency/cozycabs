@@ -167,7 +167,7 @@ export default function RootLayout({ children }) {
           }}
         />
 
-        <title>Cab Service in India | CozyCabz</title>
+        <title>Cab Service Service in India | CozyCabz</title>
         <meta
           name="description"
           content="Book safe, clean, and affordable cabs in 200+ cities with CozyCabz. Enjoy premium rides, expert drivers, 24/7 support, and trusted service for every trip."

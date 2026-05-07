@@ -126,7 +126,7 @@ const carrental = () => {
       <section className="heroeco" aria-label="Car Rental Hero Section">
         <div className="heroeco__copy">
           <p className="heroeco__eyebrow">India's Trusted Cab Service</p>
-          <h1 className="heroeco__title">{`Chauffeur Service in ${selectedCity.city}`}</h1>
+          <h1 className="heroeco__title">{`Cab Service in ${selectedCity.city}`}</h1>
           <span className="small-head">
             <br />
             <h4>Reliable, Safe & Affordable</h4>
