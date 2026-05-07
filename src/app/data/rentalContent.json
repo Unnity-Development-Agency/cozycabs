@@ -3,14 +3,14 @@
     "id": 1,
     "city": "Mumbai",
     "title": "Car Rental in Mumbai",
-    "description": "Exploring Mumbai can be exciting but also overwhelming with traffic, long distances, and the city’s non-stop energy. That’s where Cozy Cabz Car Rental in Mumbai makes your journey easier.",
+    "description": "Exploring Mumbai can be exciting but also overwhelming with traffic, long distances, and the city’s non-stop energy. That’s where CozyCabz Cab Service in Mumbai makes your journey easier.",
     "placeDecrip": "Mumbai is a city that blends history, culture, glamour, and nature—all in one. From colonial-era monuments to vibrant markets, spiritual centers, and Bollywood hotspots, there’s so much to explore. With CozyCabz car hire in Mumbai, you can cover these places comfortably, without the hassle of traffic, parking, or last-minute cab hunting",
     "spots": [
       {
         "id": 1,
         "image": "/g1.webp",
         "title": "Gateway of India & Colaba Causeway",
-        "descrip": "Standing tall by the Arabian Sea, the Gateway of India is Mumbai’s most iconic landmark. Built during the British era, it’s not just a tourist attraction but a piece of history. Just a short walk away lies Colaba Causeway, a bustling market street filled with trendy clothes, antique jewelry, handicrafts, and cozy cafés. With our car rental with driver, you can explore both spots in one go—without the stress of crowded lanes or parking issues"
+        "descrip": "Standing tall by the Arabian Sea, the Gateway of India is Mumbai’s most iconic landmark. Built during the British era, it’s not just a tourist attraction but a piece of history. Just a short walk away lies Colaba Causeway, a bustling market street filled with trendy clothes, antique jewelry, handicrafts, and cozy cafés. With our cab service with driver, you can explore both spots in one go—without the stress of crowded lanes or parking issues"
       },
       {
         "id": 2,
@@ -22,7 +22,7 @@
         "id": 3,
         "image": "/g3.webp",
         "title": "Siddhivinayak Temple & Haji Ali Dargah",
-        "descrip": "Mumbai is as spiritual as it is fast-paced. The Siddhivinayak Temple, dedicated to Lord Ganesha, attracts lakhs of devotees every week. Equally famous is the Haji Ali Dargah, located on a small islet in the Arabian Sea, offering both peace and breathtaking views. With our car rental service in Mumbai, you can plan your visit conveniently, avoiding long waits and ensuring you reach at the best times of the day."
+        "descrip": "Mumbai is as spiritual as it is fast-paced. The Siddhivinayak Temple, dedicated to Lord Ganesha, attracts lakhs of devotees every week. Equally famous is the Haji Ali Dargah, located on a small islet in the Arabian Sea, offering both peace and breathtaking views. With our cab service service in Mumbai, you can plan your visit conveniently, avoiding long waits and ensuring you reach at the best times of the day."
       },
       {
         "id": 4,
@@ -43,8 +43,8 @@
     "id": 2,
     "city": "Delhi",
     "title": "Car Rental in Delhi",
-    "description": "Delhi, India’s capital, blends history and modern life with forts, markets, and business hubs. But heavy traffic and crowds make travel stressful. That’s where CozyCabz Car Rental in Delhi ensures smooth, safe, and hassle-free journeys every time.",
-    "placeDecrip": "Delhi is a city where every street has a story to tell. From centuries-old Mughal forts to modern shopping hubs, the capital is a mix of history, culture, spirituality, and vibrant city life. With CozyCabz car rental in Delhi with driver, exploring becomes stress-free—you just sit back and enjoy while we take care of traffic, routes, and parking.",
+    "description": "Delhi, India’s capital, blends history and modern life with forts, markets, and business hubs. But heavy traffic and crowds make travel stressful. That’s where CozyCabz cab service in Delhi ensures smooth, safe, and hassle-free journeys every time.",
+    "placeDecrip": "Delhi is a city where every street has a story to tell. From centuries-old Mughal forts to modern shopping hubs, the capital is a mix of history, culture, spirituality, and vibrant city life. With CozyCabz cab service in Delhi with driver, exploring becomes stress-free—you just sit back and enjoy while we take care of traffic, routes, and parking.",
     "spots": [
       {
         "id": 1,
@@ -89,7 +89,7 @@
     "id": 3,
     "city": "Bangalore",
     "title": "Car Rental in Bangalore",
-    "description": "Bangalore, the Silicon Valley of India, blends IT hubs, gardens, landmarks, and nightlife. Yet traffic makes travel challenging. That’s where CozyCabz Car Rental in Bangalore helps, offering clean cars, verified chauffeurs, transparent pricing, 24×7 service.",
+    "description": "Bangalore, the Silicon Valley of India, blends IT hubs, gardens, landmarks, and nightlife. Yet traffic makes travel challenging. That’s where CozyCabz Cab Service in Bangalore helps, offering clean cars, verified chauffeurs, transparent pricing, 24×7 service.",
     "placeDecrip": "Discover the charm of Bangalore with CozyCabz—your trusted travel partner. From grand palaces and lush gardens to buzzing shopping hubs and spiritual retreats, the city offers something for everyone.",
     "spots": [
       {
@@ -122,7 +122,7 @@
     "id": 4,
     "city": "Chennai",
     "title": "Car Rental in Chennai",
-    "description": "Chennai, the cultural capital of South India, blends temples, colonial landmarks, Marina Beach, and IT hubs. But traffic and long distances make travel stressful. That’s where CozyCabz Car Rental in Chennai with driver ensures smooth, safe, and convenient rides.",
+    "description": "Chennai, the cultural capital of South India, blends temples, colonial landmarks, Marina Beach, and IT hubs. But traffic and long distances make travel stressful. That’s where CozyCabz Cab Service in Chennai with driver ensures smooth, safe, and convenient rides.",
     "placeDecrip": "Chennai beautifully blends spirituality, history, and modern culture. Explore the city’s best attractions at your own pace while our professional drivers ensure a smooth ride.",
     "spots": [
       {
@@ -179,7 +179,7 @@
     "id": 5,
     "city": "Hyderabad",
     "title": "Car Rental in Hyderabad",
-    "description": "Hyderabad, the City of Pearls, blends history, culture, and modernity—from centuries-old monuments and bazaars to IT hubs and luxury malls. Navigating the traffic can be stressful. CozyCabz offers car rental in Hyderabad with driver for smooth, safe, and hassle-free journeys—local, outstation, or airport.",
+    "description": "Hyderabad, the City of Pearls, blends history, culture, and modernity—from centuries-old monuments and bazaars to IT hubs and luxury malls. Navigating the traffic can be stressful. CozyCabz offers Cab Service in Hyderabad with driver for smooth, safe, and hassle-free journeys—local, outstation, or airport.",
     "placeDecrip": "Explore Hyderabad’s royal heritage and modern charm with cozy cabz. Travel comfortably without worrying about traffic or parking.",
     "spots": [
       {
@@ -230,7 +230,7 @@
     "id": 6,
     "city": "Pune",
     "title": "Car Rental in Pune",
-    "description": "Pune, the cultural capital of Maharashtra, blends heritage, education hubs, IT parks, and modern living. CozyCabz offers car rental in Pune with driver so every ride is safe, smooth, and hassle-free—local, outstation, or airport.",
+    "description": "Pune, the cultural capital of Maharashtra, blends heritage, education hubs, IT parks, and modern living. CozyCabz offers cab service in Pune with driver so every ride is safe, smooth, and hassle-free—local, outstation, or airport.",
     "placeDecrip": "Explore Pune’s history, culture, and modern charm with Cozy Cabz—travel comfortably without traffic or parking worries.",
     "spots": [
       {
@@ -281,7 +281,7 @@
     "id": 7,
     "title": "Car Rental in Kolkata",
     "city": "Kolkata",
-    "description": "Kolkata, the City of Joy, blends colonial architecture, vibrant culture, and modern lifestyle. CozyCabz provides dependable car rental with driver for safe, smooth, and stress-free travel—local trips, business, outstation, or airport.",
+    "description": "Kolkata, the City of Joy, blends colonial architecture, vibrant culture, and modern lifestyle. CozyCabz provides dependable cab service with driver for safe, smooth, and stress-free travel—local trips, business, outstation, or airport.",
     "placeDecrip": "Explore Kolkata’s famous landmarks comfortably with CozyCabz—no traffic or parking worries.",
     "spots": [
       {
@@ -326,7 +326,7 @@
     "id": 8,
     "city": "Ahmedabad",
     "title": "Car Rental in Ahmedabad",
-    "description": "Ahmedabad blends heritage with modern living—from Sabarmati Ashram and stepwells to buzzing markets and IT zones. CozyCabz provides trusted car rental with driver so every journey is safe and convenient.",
+    "description": "Ahmedabad blends heritage with modern living—from Sabarmati Ashram and stepwells to buzzing markets and IT zones. CozyCabz provides trusted cab service with driver so every journey is safe and convenient.",
     "placeDecrip": "Explore top attractions comfortably with CozyCabz—travel at your pace without traffic or parking worries.",
     "spots": [
       {
@@ -371,7 +371,7 @@
     "id": 9,
     "city": "Jaipur",
     "title": "Car Rental in Jaipur",
-    "description": "Jaipur, the Pink City, blends royal heritage with modern comforts. CozyCabz offers trusted car rental in Jaipur with driver—safe, comfortable, and affordable for sightseeing, business trips, airport transfers, and weekend getaways.",
+    "description": "Jaipur, the Pink City, blends royal heritage with modern comforts. CozyCabz offers trusted cab service in Jaipur with driver—safe, comfortable, and affordable for sightseeing, business trips, airport transfers, and weekend getaways.",
     "placeDecrip": "Explore Jaipur’s rich heritage and cultural landmarks at your own pace, without the stress of traffic or parking.",
     "spots": [
       {
@@ -416,7 +416,7 @@
     "id": 10,
     "city": "Chandigarh",
     "title": "Car Rental in Chandigarh",
-    "description": "Chandigarh, the City Beautiful, is known for its clean roads, planned design, gardens, and lakes. Yet travel can be time-consuming. That’s why CozyCabz Car Rental in Chandigarh with driver ensures safe, smooth rides for sightseeing, airport transfers, business trips, and weekend journeys.",
+    "description": "Chandigarh, the City Beautiful, is known for its clean roads, planned design, gardens, and lakes. Yet travel can be time-consuming. That’s why CozyCabz Cab Service in Chandigarh with driver ensures safe, smooth rides for sightseeing, airport transfers, business trips, and weekend journeys.",
     "placeDecrip": "With CozyCabz rent a car in Chandigarh, you can explore the city’s iconic landmarks comfortably and at your own pace.",
     "spots": [
       {
@@ -441,7 +441,7 @@
         "id": 4,
         "image": "/inchandigarh/Japanese.png",
         "title": "Japanese Garden",
-        "descrip": "Located in Sector 31, the Japanese Garden offers a peaceful oasis in the city. With waterfalls, pagoda structures, themed gardens, and a meditation centre, it’s a tranquil place to unwind and connect with nature.With CozyCabz car rental Chandigarh, enjoying these attractions becomes effortless, letting you soak in the city’s beauty without the stress of driving or parking."
+        "descrip": "Located in Sector 31, the Japanese Garden offers a peaceful oasis in the city. With waterfalls, pagoda structures, themed gardens, and a meditation centre, it’s a tranquil place to unwind and connect with nature.With CozyCabz cab service Chandigarh, enjoying these attractions becomes effortless, letting you soak in the city’s beauty without the stress of driving or parking."
       }
     ]
   },
@@ -449,8 +449,8 @@
     "id": 11,
     "city": "Lucknow",
     "title": "Car Rental in Lucknow",
-    "description": "Lucknow, the City of Nawabs, blends Mughal architecture, vibrant markets, and rich culture. Yet exploring can be difficult without the right transport. That’s why CozyCabz Car Rental in Lucknow with driver ensures safe, smooth rides for tourists, corporates, families, and outstation trips.",
-    "placeDecrip": "With CozyCabz car rental Lucknow, exploring the city’s cultural gems and modern attractions becomes easy and stress-free. You can travel at your own pace without worrying about parking or traffic.",
+    "description": "Lucknow, the City of Nawabs, blends Mughal architecture, vibrant markets, and rich culture. Yet exploring can be difficult without the right transport. That’s why CozyCabz cab service in Lucknow with driver ensures safe, smooth rides for tourists, corporates, families, and outstation trips.",
+    "placeDecrip": "With CozyCabz cab service Lucknow, exploring the city’s cultural gems and modern attractions becomes easy and stress-free. You can travel at your own pace without worrying about parking or traffic.",
     "spots": [
       {
         "id": 1,
@@ -486,7 +486,7 @@
         "id": 6,
         "image": "/inlucknow/Lucknow-zoo.png",
         "title": "Lucknow Zoo",
-        "descrip": "Also known as Nawab Wajid Ali Shah Zoological Garden, Lucknow Zoo is a family favorite. Home to tigers, lions, elephants, and rare birds, it offers both education and entertainment. The zoo also has a toy train and nature museum, making it ideal for children and wildlife lovers.With Lucknow car rental services from CozyCabz, visiting these attractions becomes comfortable, convenient, and enjoyable, giving you the freedom to discover the city’s charm."
+        "descrip": "Also known as Nawab Wajid Ali Shah Zoological Garden, Lucknow Zoo is a family favorite. Home to tigers, lions, elephants, and rare birds, it offers both education and entertainment. The zoo also has a toy train and nature museum, making it ideal for children and wildlife lovers.With Lucknow cab service services from CozyCabz, visiting these attractions becomes comfortable, convenient, and enjoyable, giving you the freedom to discover the city’s charm."
       }
     ]
   },
@@ -494,8 +494,8 @@
     "id": 12,
     "city": "Indore",
     "title": "Car Rental in Indore",
-    "description": "Indore, Madhya Pradesh’s commercial capital, blends heritage and modern life with Rajwada Palace, Sarafa Bazaar, and IT hubs. Yet traffic can be exhausting. That’s why CozyCabz Car Rental in Indore with driver ensures safe, smooth rides for sightseeing, business travel, and outstation journeys.",
-    "placeDecrip": "With CozyCabz car rental Indore, exploring the city’s cultural and fun places becomes convenient and stress-free. You can travel at your own pace while enjoying comfort and safety.",
+    "description": "Indore, Madhya Pradesh’s commercial capital, blends heritage and modern life with Rajwada Palace, Sarafa Bazaar, and IT hubs. Yet traffic can be exhausting. That’s why CozyCabz cab service in Indore with driver ensures safe, smooth rides for sightseeing, business travel, and outstation journeys.",
+    "placeDecrip": "With CozyCabz cab service Indore, exploring the city’s cultural and fun places becomes convenient and stress-free. You can travel at your own pace while enjoying comfort and safety.",
     "spots": [
       {
         "id": 1,
@@ -539,7 +539,7 @@
     "id": 13,
     "city": "Surat",
     "title": "Car Rental in Surat",
-    "description": "Surat, the Diamond City of India, blends heritage, trade, markets, and seaside getaways. Exploring is exciting but traffic makes travel challenging. That’s why CozyCabz offers car rental in Surat with driver and self drive car rental in Surat.",
+    "description": "Surat, the Diamond City of India, blends heritage, trade, markets, and seaside getaways. Exploring is exciting but traffic makes travel challenging. That’s why CozyCabz offers cab service in Surat with driver and self drive cab service in Surat.",
     "placeDecrip": "With CozyCabz rent a car in Surat, exploring the city’s top attractions becomes easy and comfortable. From historic forts to beaches and gardens, you can enjoy every corner of the city at your own pace.",
     "spots": [
       {
@@ -576,7 +576,7 @@
         "id": 6,
         "image": "/insurat/Dutch.png",
         "title": "Dutch Garden",
-        "descrip": "Known for its colonial influence, Dutch Garden is a beautifully landscaped park with historical tombs of Dutch and Armenian traders. Its peaceful lawns and serene atmosphere make it an ideal place for relaxation. It’s a perfect mix of heritage and greenery.With Surat car rental services from CozyCabz, you can explore these landmarks without hassle, enjoying comfort and flexibility throughout your journey."
+        "descrip": "Known for its colonial influence, Dutch Garden is a beautifully landscaped park with historical tombs of Dutch and Armenian traders. Its peaceful lawns and serene atmosphere make it an ideal place for relaxation. It’s a perfect mix of heritage and greenery.With Surat cab service services from CozyCabz, you can explore these landmarks without hassle, enjoying comfort and flexibility throughout your journey."
       }
     ]
   },
@@ -584,7 +584,7 @@
     "id": 14,
     "city": "Coimbatore",
     "title": "Car Rental in Coimbatore",
-    "description": "Coimbatore, the Manchester of South India, is known for textiles, temples, malls, and hill stations like Ooty. That’s why CozyCabz Car Rental in Coimbatore with driver offers safe, convenient rides, including luxury rentals and 7 seater car rental in Coimbatore.",
+    "description": "Coimbatore, the Manchester of South India, is known for textiles, temples, malls, and hill stations like Ooty. That’s why CozyCabz Cab Service in Coimbatore with driver offers safe, convenient rides, including luxury rentals and 7 seater cab service in Coimbatore.",
     "placeDecrip": "With CozyCabz rent a car in Coimbatore, exploring the city’s temples, museums, parks, and shopping hubs becomes safe and convenient. Enjoy every landmark at your own pace with complete comfort.",
     "spots": [
       {
@@ -629,7 +629,7 @@
     "id": 15,
     "city": "Vadodara",
     "title": "Car Rental in Vadodara",
-    "description": "Vadodara, or Baroda, blends royal heritage with modern charm, from Lakshmi Vilas Palace to the Champaner-Pavagadh UNESCO site and industrial hubs. To explore stress-free, CozyCabz offers car rental in Vadodara with driver and flexible packages.",
+    "description": "Vadodara, or Baroda, blends royal heritage with modern charm, from Lakshmi Vilas Palace to the Champaner-Pavagadh UNESCO site and industrial hubs. To explore stress-free, CozyCabz offers cab service in Vadodara with driver and flexible packages.",
     "placeDecrip": "With CozyCabz rent a car in Vadodara, exploring the city’s iconic landmarks becomes simple, comfortable, and stress-free.",
     "spots": [
       {
@@ -674,7 +674,7 @@
     "id": 16,
     "city": "Rajkot",
     "title": "Car Rental in Rajkot",
-    "description": "Rajkot, one of Gujarat’s fastest-growing cities, blends culture, business, and modern life. From Kaba Gandhi No Delo to temples, lakes, and markets, it has much to offer. CozyCabz Car Rental in Rajkot provides safe, stress-free local trips, self drive, and group travel.",
+    "description": "Rajkot, one of Gujarat’s fastest-growing cities, blends culture, business, and modern life. From Kaba Gandhi No Delo to temples, lakes, and markets, it has much to offer. CozyCabz Cab Service in Rajkot provides safe, stress-free local trips, self drive, and group travel.",
     "placeDecrip": "Explore cultural landmarks, museums, temples, and scenic spots at your own pace.",
     "spots": [
       {
@@ -719,7 +719,7 @@
     "id": 17,
     "city": "Kanpur",
     "title": "Car Rental in Kanpur",
-    "description": "Kanpur, Uttar Pradesh’s industrial and cultural hub, blends ghats, markets, and heritage with the Ganges, JK Temple, and Memorial Church. Exploring can be easy with CozyCabz. We offer car rental in Kanpur with driver and self drive car in Kanpur.",
+    "description": "Kanpur, Uttar Pradesh’s industrial and cultural hub, blends ghats, markets, and heritage with the Ganges, JK Temple, and Memorial Church. Exploring can be easy with CozyCabz. We offer cab service in Kanpur with driver and self drive car in Kanpur.",
     "placeDecrip": "Explore heritage spots, gardens, and entertainment venues without parking or navigation stress.",
     "spots": [
       {
@@ -764,7 +764,7 @@
     "id": 18,
     "city": "Mysore",
     "title": "Car Rental in Mysore",
-    "description": "Mysore, the city of palaces and gardens, blends royal heritage, temples, and bustling markets. From Mysore Palace to Chamundi Hills, there’s much to explore. CozyCabz Car Rental in Mysore with driver and self drive options ensures safe, stress-free travel.",
+    "description": "Mysore, the city of palaces and gardens, blends royal heritage, temples, and bustling markets. From Mysore Palace to Chamundi Hills, there’s much to explore. CozyCabz Cab Service in Mysore with driver and self drive options ensures safe, stress-free travel.",
     "placeDecrip": "Cover palaces, gardens, temples, and markets comfortably at your pace.",
     "spots": [
       {
@@ -809,7 +809,7 @@
     "id": 19,
     "city": "Nagpur",
     "title": "Car Rental in Nagpur",
-    "description": "Nagpur, the Orange City of India, blends history, culture, and commerce with Deekshabhoomi, Sitabuldi Fort, Futala Lake, and business hubs.That’s why CozyCabz offers car rental in Nagpur with driver and self drive cars in Nagpur. From daily rentals to luxury car rental.",
+    "description": "Nagpur, the Orange City of India, blends history, culture, and commerce with Deekshabhoomi, Sitabuldi Fort, Futala Lake, and business hubs.That’s why CozyCabz offers cab service in Nagpur with driver and self drive cars in Nagpur. From daily rentals to luxury cab service.",
     "placeDecrip": "With CozyCabz rent a car in Nagpur, you can explore the city’s cultural landmarks, spiritual sites, and scenic spots at your own pace, without worrying about traffic or parking.",
     "spots": [
       {
@@ -846,7 +846,7 @@
         "id": 6,
         "image": "/innagpur/Raman.png",
         "title": "Raman Science Centre",
-        "descrip": "Raman Science Centre is a must-visit for students and science lovers. With interactive exhibits, fun experiments, and a planetarium, it makes learning exciting for families and school groups. With Nagpur car rental services from CozyCabz, exploring these attractions becomes easy, comfortable, and memorable."
+        "descrip": "Raman Science Centre is a must-visit for students and science lovers. With interactive exhibits, fun experiments, and a planetarium, it makes learning exciting for families and school groups. With Nagpur cab service  from CozyCabz, exploring these attractions becomes easy, comfortable, and memorable."
       }
     ]
   },
@@ -854,7 +854,7 @@
     "id": 20,
     "city": "Bhopal",
     "title": "Car Rental in Bhopal",
-    "description": "Bhopal, the City of Lakes, blends heritage, culture, and natural beauty with sites like Upper Lake and Taj-ul-Masajid. CozyCabz Car Rental in Bhopal offers safe, stress-free travel through well-maintained cars, professional chauffeurs, self drive rentals, and flexible car hire options.",
+    "description": "Bhopal, the City of Lakes, blends heritage, culture, and natural beauty with sites like Upper Lake and Taj-ul-Masajid. CozyCabz Cab Service in Bhopal offers safe, stress-free travel through well-maintained cars, professional chauffeurs, self drive rentals, and flexible car hire options.",
     "placeDecrip": "Enjoy Bhopal’s heritage and natural beauty at your own pace without travel hassles.",
     "spots": [
       {
@@ -899,7 +899,7 @@
     "id": 21,
     "city": "Patna",
     "title": "Car Rental in Patna",
-    "description": "Patna, Bihar’s historic capital, blends heritage, spirituality, and modern growth. From Patna Sahib Gurudwara to Golghar and busy markets, the city offers plenty to explore. CozyCabz provides car rental in Patna with driver, self drive car rental in Patna, and luxury options.",
+    "description": "Patna, Bihar’s historic capital, blends heritage, spirituality, and modern growth. From Patna Sahib Gurudwara to Golghar and busy markets, the city offers plenty to explore. CozyCabz provides cab service in Patna with driver, self drive cab service in Patna, and luxury options.",
     "placeDecrip": "Explore religious landmarks, heritage sites, and cultural attractions comfortably.",
     "spots": [
       {
@@ -944,7 +944,7 @@
     "id": 22,
     "city": "Guwahati",
     "title": "Car Rental in Guwahati",
-    "description": "Guwahati, the gateway to Northeast India, blends temples, wildlife sanctuaries, and modern city life. Yet traffic makes travel hectic. CozyCabz Car Rental in Guwahati with driver ensures safe, reliable journeys with well-maintained cars—covering luxury rentals, affordable rides, airport transfers.",
+    "description": "Guwahati, the gateway to Northeast India, blends temples, wildlife sanctuaries, and modern city life. Yet traffic makes travel hectic. CozyCabz Cab Service in Guwahati with driver ensures safe, reliable journeys with well-maintained cars—covering luxury rentals, affordable rides, airport transfers.",
     "placeDecrip": "Travel at your own pace—comfortable and stress-free.",
     "spots": [
       {
