@@ -131,7 +131,7 @@ export default function SiteFooter() {
             <h4>Services</h4>
             <ul className="linklist">
               {[
-                ["Corporate Car Rental", "/our-services/corporate-car-rental"],
+                ["Corporate Cab Service", "/our-services/corporate-car-rental"],
                 [
                   "Employee Transport Solutions",
                   "/our-services/transport-solution",
@@ -142,13 +142,13 @@ export default function SiteFooter() {
                   "/our-services/conference-delegation-travel",
                 ],
                 ["Event Transportation", "/our-services/event-transportation"],
-                ["Wedding Car Rental", "/our-services/wedding-car-rental"],
+                ["Wedding Cab Service", "/our-services/wedding-car-rental"],
                 [
                   "Travel Partners Program",
                   "/our-services/travel-partners-program",
                 ],
                 [
-                  "Chauffeured Car Rental",
+                  "Chauffeured Cab Service",
                   "/our-services/chauffeur-car-rental",
                 ],
               ].map(([name, href]) => (
