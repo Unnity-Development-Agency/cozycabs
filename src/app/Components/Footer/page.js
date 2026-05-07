@@ -100,7 +100,7 @@ export default function SiteFooter() {
               alt="logo"
             />
             <p className="brand__about">
-              India&apos;s leading car rental service with 10+ years of
+              India&apos;s leading cab service with 10+ years of
               experience. We provide safe, reliable, and comfortable
               transportation across 250+ cities.
             </p>
