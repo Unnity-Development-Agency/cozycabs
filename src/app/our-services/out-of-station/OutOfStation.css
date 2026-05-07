@@ -1,0 +1,571 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&display=swap");
+
+/* ================================================================
+   HERO
+   ================================================================ */
+.oos-hero {
+  position: relative;
+  width: 100%;
+  min-height: 100svh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Outfit", sans-serif;
+}
+
+.oos-hero__bg {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.oos-hero__img {
+  object-fit: cover;
+  object-position: center;
+}
+
+.oos-hero__dim {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(100deg, #d80f0f 20%, #cc15158e 50%, #0000 100%);
+  z-index: 1;
+}
+
+.oos-hero__body {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 110px 28px 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 28px;
+}
+
+/* ── Text ── */
+.oos-text {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.oos-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(216, 1, 23, 0.18);
+  border: 1px solid rgba(216, 1, 23, 0.35);
+  color: #ff6060;
+  padding: 5px 14px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  width: fit-content;
+  font-family: "Outfit", sans-serif;
+}
+
+.oos-h1 {
+  font-size: clamp(32px, 4.5vw, 58px);
+  font-weight: 800;
+  color: #fff;
+  max-width: 800px;
+  line-height: 1.1;
+  margin: 0;
+  letter-spacing: -0.5px;
+  font-family: "Outfit", sans-serif;
+}
+
+.oos-h1 span {
+  color: #d80117;
+}
+
+.oos-sub {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.6);
+  margin: 0;
+  font-weight: 400;
+  letter-spacing: 0.2px;
+  font-family: "Outfit", sans-serif;
+}
+
+/* ================================================================
+   WIDGET
+   ================================================================ */
+.oos-widget {
+  width: 100%;
+  background: #fff;
+  border-radius: 12px;
+  overflow: visible;
+  box-shadow:
+    0 20px 60px rgba(0, 0, 0, 0.45),
+    0 2px 8px rgba(0, 0, 0, 0.2);
+  font-family: "Outfit", sans-serif;
+}
+
+/* Tabs */
+.oos-tabs {
+  display: flex;
+  background: #111;
+  border-radius: 12px 12px 0 0;
+  padding: 0 20px;
+  gap: 2px;
+}
+
+.oos-tab {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 12px 20px;
+  background: transparent;
+  border: none;
+  border-bottom: 3px solid transparent;
+  color: #666;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  cursor: pointer;
+  transition:
+    color 0.2s,
+    border-color 0.2s;
+  font-family: "Outfit", sans-serif;
+}
+
+.oos-tab:hover {
+  color: #ccc;
+}
+.oos-tab.active {
+  color: #fff;
+  border-bottom-color: #d80117;
+}
+
+/* Fields row */
+.oos-fields {
+  display: flex;
+  align-items: stretch;
+  padding: 10px 14px;
+  gap: 8px;
+}
+
+/* ── Field card ── */
+.oos-f {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 4px;
+  padding: 8px 18px;
+  position: relative;
+  min-width: 100px;
+  border: 1.5px solid #b0b0b0;
+  border-radius: 50px;
+  background: #fff;
+  transition:
+    border-color 0.2s,
+    box-shadow 0.2s;
+  font-family: "Outfit", sans-serif;
+}
+
+.oos-f:hover {
+  border-color: #888;
+}
+
+.oos-f:focus-within {
+  border-color: #d80117;
+  box-shadow: 0 0 0 3px rgba(216, 1, 23, 0.08);
+}
+
+/* Disabled FROM */
+.oos-f--dis {
+  background: #f5f5f5;
+  border-color: #b0b0b0;
+  border-style: dashed;
+  cursor: not-allowed;
+}
+.oos-f--dis:hover {
+  border-color: #b0b0b0;
+}
+.oos-f--dis:focus-within {
+  border-color: #b0b0b0;
+  box-shadow: none;
+}
+
+.oos-f--grow {
+  flex: 1;
+}
+
+/* Date field  */
+.oos-f--dt {
+  cursor: pointer;
+}
+.oos-f--dt input[type="date"],
+.oos-f--dt input[type="time"] {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  cursor: pointer;
+  z-index: 3;
+  border: none;
+  background: transparent;
+}
+.oos-f--dt:hover {
+  border-color: #d80117;
+}
+.oos-f--dt:hover .oos-f__cal-ico {
+  color: #d80117;
+}
+
+/* Label */
+.oos-f__lbl {
+  font-size: 9.5px;
+  font-weight: 800;
+  letter-spacing: 1.2px;
+  color: #aaa;
+  text-transform: uppercase;
+  font-family: "Outfit", sans-serif;
+  white-space: nowrap;
+  line-height: 1;
+}
+.oos-f--dis .oos-f__lbl {
+  color: #bbb;
+}
+
+/* Locked badge */
+.oos-f__badge {
+  position: absolute;
+  top: -9px;
+  right: 14px;
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  background: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 2px 7px;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  color: #999;
+  text-transform: uppercase;
+  font-family: "Outfit", sans-serif;
+}
+
+/* Wrap */
+.oos-f__wrap {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+/* Text input */
+.oos-f__inp {
+  border: none;
+  outline: none;
+  background: transparent;
+  font-size: 14px;
+  font-weight: 600;
+  color: #111;
+  width: 100%;
+  padding: 0;
+  font-family: "Outfit", sans-serif;
+  min-width: 0;
+}
+.oos-f__inp::placeholder {
+  color: #bbb;
+  font-weight: 400;
+}
+
+/* Disabled text input */
+.oos-f__inp--dis {
+  border: none;
+  outline: none;
+  background: transparent;
+  font-size: 14px;
+  font-weight: 600;
+  color: #888;
+  width: 100%;
+  padding: 0;
+  font-family: "Outfit", sans-serif;
+  min-width: 0;
+  cursor: not-allowed;
+}
+
+/* Date display text */
+.oos-f__dtxt {
+  font:
+    600 14px/1 "Outfit",
+    sans-serif;
+  color: #111;
+  white-space: nowrap;
+  pointer-events: none;
+}
+.oos-f__dtxt--ph {
+  color: #bbb;
+  font-weight: 400;
+}
+
+/* Icons */
+.oos-f__ico {
+  flex-shrink: 0;
+}
+.oos-f__cal-ico {
+  flex-shrink: 0;
+  color: #aaa;
+  pointer-events: none;
+  transition: color 0.2s;
+}
+
+/* Swap btn */
+.oos-swap {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: 1.5px solid #e0e0e0;
+  background: #f7f7f7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: #888;
+  flex-shrink: 0;
+  align-self: center;
+  transition: all 0.25s ease;
+}
+.oos-swap:hover {
+  background: #d80117;
+  border-color: #d80117;
+  color: #fff;
+  transform: rotate(180deg);
+}
+
+/* Dropdown */
+.oos-drop {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  right: 0;
+  max-height: 250px;
+  overflow-y: auto;
+  background: #fff;
+  border: 1.5px solid #e8e8e8;
+  border-radius: 12px;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.12);
+  z-index: 200;
+  list-style: none;
+  margin: 0;
+  padding: 4px 0;
+  scrollbar-width: thin;
+  scrollbar-color: #d80117 #f0f0f0;
+}
+.oos-drop::-webkit-scrollbar {
+  width: 3px;
+}
+.oos-drop::-webkit-scrollbar-track {
+  background: #f0f0f0;
+  border-radius: 6px;
+}
+.oos-drop::-webkit-scrollbar-thumb {
+  background: #d80117;
+  border-radius: 6px;
+}
+.oos-drop li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 9px 14px;
+  font-size: 13px;
+  color: #333;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background 0.15s;
+  font-family: "Outfit", sans-serif;
+}
+.oos-drop li:hover {
+  background: #fff5f5;
+  color: #d80117;
+}
+
+/* Search button */
+.oos-btn {
+  background: #d80117;
+  color: #fff;
+  border: none;
+  padding: 0 26px;
+  min-height: 52px;
+  font-size: 13.5px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  border-radius: 50px;
+  white-space: nowrap;
+  font-family: "Outfit", sans-serif;
+  flex-shrink: 0;
+  align-self: center;
+  box-shadow: 0 4px 16px rgba(216, 1, 23, 0.3);
+  transition:
+    background 0.2s,
+    transform 0.15s,
+    box-shadow 0.2s;
+  position: relative;
+  overflow: hidden;
+}
+.oos-btn::after {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 -100%;
+  width: 60%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.2),
+    transparent
+  );
+  transform: skewX(-20deg);
+  transition: left 0.4s ease;
+}
+.oos-btn:hover {
+  background: #b40013;
+  box-shadow: 0 6px 20px rgba(216, 1, 23, 0.44);
+  transform: translateY(-2px);
+}
+.oos-btn:hover::after {
+  left: 160%;
+}
+.oos-btn:active {
+  transform: scale(0.98);
+}
+
+/* ── Trust badge ── */
+.oos-trust {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.oos-trust span {
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.7);
+  font-weight: 500;
+  font-family: "Outfit", sans-serif;
+}
+.oos-trust-dot {
+  width: 4px;
+  height: 4px;
+  background: rgba(216, 1, 23, 0.7);
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+/* ── Return date field — slide in animation ── */
+.oos-f--return {
+  animation: oos-slideIn 0.22s cubic-bezier(0.16, 1, 0.3, 1) both;
+  border-color: #d80117;
+  border-style: dashed;
+}
+
+@keyframes oos-slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(-10px) scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0) scale(1);
+  }
+}
+
+/* Round trip tab — no extra styles needed, same .oos-tab class */
+/* ================================================================
+   RESPONSIVE — TABLET ≤860px
+   ================================================================ */
+@media (max-width: 860px) {
+  .oos-hero__body {
+    padding: 100px 20px 60px;
+    gap: 24px;
+  }
+
+  .oos-fields {
+    flex-direction: column;
+    align-items: stretch;
+    padding: 12px;
+    gap: 8px;
+  }
+
+  .oos-f {
+    border-radius: 14px;
+    padding: 12px 16px;
+    min-width: unset;
+  }
+
+  .oos-f--dt input[type="date"],
+  .oos-f--dt input[type="time"] {
+    border-radius: 14px;
+  }
+
+  .oos-swap {
+    align-self: center;
+    transform: rotate(90deg);
+  }
+  .oos-swap:hover {
+    transform: rotate(270deg);
+  }
+
+  .oos-btn {
+    min-height: 50px;
+    border-radius: 12px;
+    align-self: stretch;
+    padding: 0 20px;
+  }
+}
+
+/* ================================================================
+   RESPONSIVE — MOBILE ≤500px
+   ================================================================ */
+@media (max-width: 500px) {
+  .oos-hero {
+    min-height: 100svh;
+  }
+
+  .oos-hero__body {
+    padding: 88px 14px 50px;
+    gap: 20px;
+  }
+
+  .oos-h1 {
+    font-size: 28px;
+  }
+
+  .oos-sub {
+    font-size: 13px;
+  }
+
+  .oos-trust {
+    gap: 8px;
+  }
+  .oos-trust span {
+    font-size: 11.5px;
+  }
+  .oos-trust-dot {
+    display: none;
+  }
+
+  .oos-fields {
+    padding: 10px;
+    gap: 7px;
+  }
+
+  .oos-f {
+    border-radius: 12px;
+    padding: 10px 14px;
+  }
+
+  .oos-btn {
+    min-height: 48px;
+    font-size: 13px;
+    border-radius: 12px;
+  }
+}

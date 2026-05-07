@@ -1,0 +1,117 @@
+/* ===== Number Stats ===== */
+.innova-number-stats {
+  padding: 20px 20px;
+  background: linear-gradient(180deg, #000, #111);
+  color: #fff;
+}
+
+.innova-about-stats {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  text-align: center;
+  gap: 40px 60px;
+  max-width: 1250px;
+  margin: 0 auto;
+}
+
+.innova-stat-num {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 5px;
+}
+
+.innova-stat-label {
+  font-size: 12px;
+  color: #f5f5f5;
+  text-transform: uppercase;
+  line-height: 1.4;
+}
+
+/* ===== Responsive Adjustments ===== */
+
+/* Tablets (769px–1228px) */
+@media (max-width: 1228px) and (min-width: 769px) {
+  .innova-about-stats {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px 15px;
+  }
+
+  .innova-stat-num {
+    font-size: 2rem;
+  }
+
+  .innova-stat-label {
+    font-size: 13px;
+  }
+}
+
+/* Mobile (up to 768px) */
+@media (max-width: 768px) {
+  .innova-number-stats {
+    padding: 15px 5px !important;
+  }
+
+  .innova-about-stats {
+    grid-template-columns: repeat(3, minmax(140px, 1fr));
+    gap: 20px;
+  }
+
+  .innova-stat-num {
+    font-size: 1.8rem;
+  }
+
+  .innova-stat-label {
+    font-size: 12px;
+    line-height: 1.3;
+  }
+}
+
+/* Scrollable Mobile (up to 600px) */
+/* Scrollable Mobile (up to 600px) */
+@media (max-width: 600px) {
+  .innova-number-stats {
+    padding: 50px 6% 36px;
+    background: linear-gradient(180deg, #000, #0b0b0b);
+  }
+
+  .innova-about-stats {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 24px 12px;
+    text-align: center;
+  }
+
+  .innova-stat {
+    flex: 1 1 120px;
+    max-width: 130px;
+    padding: 8px 0;
+    border-radius: 10px;
+    /* background: rgba(255, 255, 255, 0.04); */
+    backdrop-filter: blur(4px);
+    transition:
+      transform 0.25s ease,
+      background 0.25s ease;
+  }
+
+  .innova-stat:hover {
+    transform: translateY(-4px);
+    background: rgba(255, 255, 255, 0.08);
+  }
+
+  .innova-stat-num {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #ffffff;
+    margin-bottom: 4px;
+    letter-spacing: 0.5px;
+  }
+
+  .innova-stat-label {
+    font-size: 11px;
+    text-transform: capitalize;
+    color: #dcdcdc;
+    line-height: 1.4;
+  }
+}

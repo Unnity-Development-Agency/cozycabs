@@ -1,0 +1,2566 @@
+[
+  {
+    "id": 1,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "2,100",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "2,900",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "5,100",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Murthal",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "1 hr 10 mins",
+    "ac": true,
+    "included": 70
+  },
+
+  {
+    "id": 2,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "2,500",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "3,400",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "7,200",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Rohtak",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "2 hr 22 mins",
+    "ac": true,
+    "included": 80
+  },
+  {
+    "id": 3,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "2,000",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "2,200",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "5,800",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+    "destination": "Delhi to Meerut",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "2 hr 20 mins",
+    "ac": true,
+    "included": 85
+  },
+  {
+    "id": 4,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "2,300",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "2,900",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "6,000",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Panipat",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "2 hr 24 mins",
+    "ac": true,
+    "included": 90
+  },
+  {
+    "id": 5,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "2,600",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "4,600",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "10,500",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Bulandshahr",
+    "image": "/Ertiga.png",
+    "duration": "2 hr 34 mins",
+    "ac": true,
+    "included": 110
+  },
+  {
+    "id": 6,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "2,400",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+      "finalPrice": "3,000",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "8,700",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Neemrana",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "3 hr 40 mins",
+    "ac": true,
+    "included": 140
+  },
+  {
+    "id": 7,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "3,100",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "3,600",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "8,000",
+      "perKm": 19,
+      "seat": 6
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Aligarh",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "3 hr 49 mins",
+    "ac": true,
+    "included": 171
+  },
+  {
+    "id": 8,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "2,700",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "3,600",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "10,200",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Muzaffarnagar",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "3 hr 55 mins",
+    "ac": true,
+    "included": 157
+  },
+  {
+    "id": 9,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "2,600",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "3,300",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "6,700",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Mathura",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "3 hr 55 mins",
+    "ac": true,
+    "included": 183
+  },
+  {
+    "id": 10,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "2,600",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "3,500",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "6,700",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Vrindavan",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "3 hr 40 mins",
+    "ac": true,
+    "included": 180
+  },
+
+  {
+    "id": 11,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "5,000",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "6,100",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "10,600",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Mehandipur Balaji",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "4 hr 45 mins",
+    "ac": true,
+    "included": 239
+  },
+  {
+    "id": 12,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "3,700",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "4,800",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "11,900",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Alwar",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "4 hr 15 mins",
+    "ac": true,
+    "included": 165
+  },
+  {
+    "id": 13,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "2,800",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "3,100",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "8,500",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Karnal",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "2 hr 15 mins",
+    "ac": true,
+    "included": 123
+  },
+  {
+    "id": 14,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "2,900",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "4,100",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "6,500",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Saharanpur",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "3 hr 45 mins",
+    "ac": true,
+    "included": 185
+  },
+  {
+    "id": 15,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "3,200",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "4,600",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "12,400",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Bharatpur",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "4 hr 20 mins",
+    "ac": true,
+    "included": 213
+  },
+  {
+    "id": 16,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "3,500",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "4,800",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "11,700",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 6
+      }
+    ],
+
+    "destination": "Delhi to Roorkee",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "3 hr 50 mins",
+    "ac": true,
+    "included": 193
+  },
+  {
+    "id": 17,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "3,100",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "3,800",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "5,900",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Agra",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "5 hr 10 mins",
+    "ac": true,
+    "included": 214
+  },
+  {
+    "id": 18,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "4,100",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "4,100",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "9,700",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Ambala",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "3 hr 31 mins",
+    "ac": true,
+    "included": 247
+  },
+  {
+    "id": 19,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "4,100",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "5,500",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "13,900",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Kashipur",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "4 hr 55 mins",
+    "ac": true,
+    "included": 231
+  },
+  {
+    "id": 20,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "3,400",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "4,200",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "9,100",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Moradabad",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "3 hr 20 mins",
+    "ac": true,
+    "included": 173
+  },
+  {
+    "id": 21,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "4,300",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "5,300",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "10,100",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Bareilly",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "5 hr 27 mins",
+    "ac": true,
+    "included": 268
+  },
+  {
+    "id": 22,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "3,200",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "4,000",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "9,100",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Chandigarh",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "4 hr 19 mins",
+    "ac": true,
+    "included": 249
+  },
+  {
+    "id": 23,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "5,500",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "6,000",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "9,500",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Lansdowne",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "6 hr 30 mins",
+    "ac": true,
+    "included": 264
+  },
+  {
+    "id": 24,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "3,300",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "6,300",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "9,600",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Zirakpur",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "3 hr 50 mins",
+    "ac": true,
+    "included": 238
+  },
+  {
+    "id": 25,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "3,600",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "5,400",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "7,700",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Patiala",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "4 hr 20 mins",
+    "ac": true,
+    "included": 267
+  },
+  {
+    "id": 26,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "3,700",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "4,200",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "8,200",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Haridwar",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "4 hr 20 mins",
+    "ac": true,
+    "included": 223
+  },
+  {
+    "id": 27,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "4,400",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "5,900",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "13,700",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Kotdwar",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "4 hr 20 mins",
+    "ac": true,
+    "included": 224
+  },
+  {
+    "id": 28,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "4,000",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "5,100",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "10,300",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Rishikesh",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "4 hr 35 mins",
+    "ac": true,
+    "included": 259
+  },
+  {
+    "id": 29,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "4,000",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "5,100",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "15,200",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Rudrapur",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "4 hr 50 mins",
+    "ac": true,
+    "included": 275
+  },
+  {
+    "id": 30,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "3,800",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "5,400",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "8,000",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Dehradun",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "4 hr 17 mins",
+    "ac": true,
+    "included": 251
+  },
+  {
+    "id": 31,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "4,100",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "4,900",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "9,100",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Jaipur",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "5 hr 02 mins",
+    "ac": true,
+    "included": 309
+  },
+  {
+    "id": 32,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "5,200",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "6,100",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "15,900",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Kasauli",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "5 hr 22 mins",
+    "ac": true,
+    "included": 292
+  },
+  {
+    "id": 33,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "4,500",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "5,300",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "14,000",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Haldwani",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "5 hr 35 mins",
+    "ac": true,
+    "included": 300
+  },
+  {
+    "id": 34,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "5,000",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "5,700",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "11,600",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Mussoorie",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "5 hr 34 mins",
+    "ac": true,
+    "included": 285
+  },
+  {
+    "id": 35,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "5,000",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "7,600",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "20,800",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Bhimtal",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "6 hr 05 mins",
+    "ac": true,
+    "included": 317
+  },
+  {
+    "id": 36,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "4,900",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "6,200",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "11,600",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Nainital",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "6 hr 25 mins",
+    "ac": true,
+    "included": 300
+  },
+  {
+    "id": 37,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "4,800",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "4,900",
+      "perKm": 15,
+      "seat": 7
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "13,000",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Ludhiana",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "6 hr 20 mins",
+    "ac": true,
+    "included": 351
+  },
+  {
+    "id": 38,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "6,200",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "8,500",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "21,300",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Gwalior",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "6 hr 25 mins",
+    "ac": true,
+    "included": 356
+  },
+  {
+    "id": 39,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "4,300",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "4,700",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "11,600",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Ramnagar",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "5 hr 55 mins",
+    "ac": true,
+    "included": 259
+  },
+  {
+    "id": 40,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "6,400",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "9,200",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "21,900",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Ranikhet",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "8 hr 10 mins",
+    "ac": true,
+    "included": 383
+  },
+  {
+    "id": 41,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "5,700",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "6,600",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "11,200",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Shimla",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "6 hr 50 mins",
+    "ac": true,
+    "included": 346
+  },
+  {
+    "id": 42,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "8,300",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "13,900",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "35,500",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Almora",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "8 hr 33 mins",
+    "ac": true,
+    "included": 395
+  },
+  {
+    "id": 43,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "5,700",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "6,300",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "18,000",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Jalandhar",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "7 hr 20 mins",
+    "ac": true,
+    "included": 413
+  },
+  {
+    "id": 44,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "6,700",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "8,600",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "19,500",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Ajmer",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "7 hr 27 mins",
+    "ac": true,
+    "included": 458
+  },
+  {
+    "id": 45,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "5,900",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "6,800",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "15,900",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Moga",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "5 hr 24 mins",
+    "ac": true,
+    "included": 359
+  },
+  {
+    "id": 46,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "7,000",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "17,700",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "28,300",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Kota",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "7 hr 48 mins",
+    "ac": true,
+    "included": 474
+  },
+  {
+    "id": 47,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "6,500",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "7,400",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "20,000",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Amritsar",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "7 hr 20 mins",
+    "ac": true,
+    "included": 479
+  },
+  {
+    "id": 48,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "7,500",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "9,900",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "26,700",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Manali",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "9 hr 40 mins",
+    "ac": true,
+    "included": 504
+  },
+  {
+    "id": 49,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "7,900",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "9,500",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "22,200",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Pathankot",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "9 hr 10 mins",
+    "ac": true,
+    "included": 524
+  },
+  {
+    "id": 50,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "7,900",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "9,900",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "18,000",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Kasol",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "9 hr 21 mins",
+    "ac": true,
+    "included": 524
+  },
+  {
+    "id": 51,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "7,600",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "18,500",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "48,600",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Kullu",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "8 hr 21 mins",
+    "ac": true,
+    "included": 468
+  },
+  {
+    "id": 52,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "7,400",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "10,600",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "24,200",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Dharamshala",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "8 hr 40 mins",
+    "ac": true,
+    "included": 479
+  },
+  {
+    "id": 53,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "8,700",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "10,700",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "24,600",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to McLeodganj",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "8 hr 40 mins",
+    "ac": true,
+    "included": 527
+  },
+  {
+    "id": 54,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "8,200",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "10,800",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "16,900",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Dalhousie",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "8 hr 40 mins",
+    "ac": true,
+    "included": 565
+  },
+  {
+    "id": 55,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "12,400",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "15,500",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "25,800",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Badrinath",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "12 hr 45 mins",
+    "ac": true,
+    "included": 542
+  },
+  {
+    "id": 56,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "12,600",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "14,900",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "24,400",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Joshimath",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "11 hr 34 mins",
+    "ac": true,
+    "included": 492
+  },
+  {
+    "id": 57,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "12,951",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "14,477",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "23,457",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Auli",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "10 hr 04 mins",
+    "ac": true,
+    "included": 502
+  },
+  {
+    "id": 58,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "10,300",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "26,900",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "42,700",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Udaipur",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "11 hr 04 mins",
+    "ac": true,
+    "included": 727
+  },
+  {
+    "id": 59,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "10,900",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "13,700",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "22,900",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Jodhpur",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "10 hr 20 mins",
+    "ac": true,
+    "included": 661
+  },
+  {
+    "id": 60,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "6,800",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "9,000",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "22,700",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Lucknow",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "7 hr 10 mins",
+    "ac": true,
+    "included": 548
+  },
+  {
+    "id": 61,
+    "title": ["Ertiga", "Crysta", "Dzire"],
+    "dzire": {
+      "carName": "Swift Dzire",
+      "finalPrice": "6,900",
+      "perKm": 11,
+      "seat": 4
+    },
+    "ertiga": {
+      "carName": "Ertiga",
+      "finalPrice": "9,000",
+      "perKm": 15,
+      "seat": 6
+    },
+    "crysta": {
+      "carName": "Toyota Crysta",
+      "finalPrice": "21,200",
+      "perKm": 19,
+      "seat": 7
+    },
+    "premium": [
+      {
+        "title": "Toyota Fortuner",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      },
+      {
+        "title": "Toyota Innova Hycross",
+        "finalPrice": "N/A",
+        "perKm": "N/A",
+        "seat": 7
+      }
+    ],
+
+    "destination": "Delhi to Kanpur",
+    "image": ["/Ertiga.png", "/crysta-1.png", "/maruti.png"],
+    "duration": "7 hr 10 mins",
+    "ac": true,
+    "included": 496
+  }
+]
