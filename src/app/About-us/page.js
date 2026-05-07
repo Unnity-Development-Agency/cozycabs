@@ -80,7 +80,7 @@ const About = () => {
 
           {/* 🚘 Side Image */}
           <div className="info-image">
-            <img src="./innova-7.jpg" alt="CozyCabz Car" />
+            <img src="./innova-7.jpg" alt="CozyCabz-Car" />
             {/* 🚖 CTA Section */}
             <div className="cta-section">
               <h3>Ready to ride with us?</h3>
