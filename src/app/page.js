@@ -328,7 +328,7 @@ export default function Home() {
   const cities = [
     {
       name: "Bangalore",
-      status: "Car Rental Available",
+      status: "Cab Service Available",
       desc: "Explore hassle-free rides with 24/7 car rental—perfect for daily commutes or weekend getaways.",
       cta: "Book in Bangalore",
       href: "/car-rental-in-bangalore",
@@ -337,7 +337,7 @@ export default function Home() {
     },
     {
       name: "Mumbai",
-      status: "Car Rental Available",
+      status: "Cab Service Available",
       desc: "Experience seamless travel with our reliable and affordable car —available round the clock.",
       cta: "Book in Mumbai",
       href: "/car-rental-in-mumbai",
@@ -346,7 +346,7 @@ export default function Home() {
     },
     {
       name: "Jaipur",
-      status: "Car Rental Available",
+      status: "Cab Service Available",
       desc: "Discover the Pink City in comfort with our premium car rental services—available anytime, anywhere in Jaipur.",
       cta: "Book in Jaipur",
       href: "/car-rental-in-jaipur",
@@ -355,7 +355,7 @@ export default function Home() {
     },
     {
       name: "Chandigarh",
-      status: "Car Rental Available",
+      status: "Cab Service Available",
       desc: "Comfortable and reliable rides across Chandigarh with 24/7 support.",
       cta: "Book in Chandigarh",
       href: "/car-rental-in-chandigarh",
@@ -364,7 +364,7 @@ export default function Home() {
     },
     {
       name: "Kolkata",
-      status: "Car Rental Available",
+      status: "Cab Service Available",
       desc: "On-time pickups and well-maintained cars for business and family travel.",
       cta: "Book in Kolkata",
       href: "/car-rental-in-kolkata",
@@ -374,7 +374,7 @@ export default function Home() {
     //Hyderababd///
     {
       name: "Hyderabad",
-      status: "Car Rental Available",
+      status: "Cab Service Available",
       desc: "Safe, clean, and comfortable travel across Hyderabad—available round the clock.",
       cta: "Book in Hyderabad",
       href: "/car-rental-in-hyderabad",
@@ -1369,7 +1369,7 @@ export default function Home() {
         {/* Top Section */}
         <div className="program-header">
           <h1>
-            Corporate Program <span className="red-black">Rental</span>
+            Corporate Cab <span className="red-black">Service</span>
           </h1>
           <p>
             Comprehensive transportation solutions designed specifically for

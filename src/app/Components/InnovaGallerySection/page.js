@@ -16,7 +16,7 @@ const InnovaGallerySection = ({ city = "Delhi" }) => {
   return (
     <section className="innova-gallery-section">
       <h1 className="innova-section-title">
-        Toyota Innova Crysta <span>Rental Service</span> in {city}
+        Toyota Innova Crysta <span>Cab Service</span> in {city}
       </h1>
 
       <div className="innova-gallery-content">
