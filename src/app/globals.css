@@ -1824,6 +1824,7 @@ a {
 .innova-feature-icon img {
   max-width: 60px;
   width: 50px;
+  margin: auto;
   height: auto;
   filter: brightness(0) saturate(100%) invert(16%) sepia(100%) saturate(3000%)
     hue-rotate(345deg) brightness(90%) contrast(110%);
