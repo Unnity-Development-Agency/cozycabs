@@ -56,7 +56,7 @@ export default function SiteFooter() {
     if (showInnova) {
       router.push(`/innovaRental/innova-${toSlug(citie)}`);
     } else {
-      router.push(`/cab-service-in-${toSlug(citie)}`);
+      router.push(`/taxi-service-in-${toSlug(citie)}`);
     }
   }
 
