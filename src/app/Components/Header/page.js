@@ -121,7 +121,7 @@ export default function Header() {
               </ul>
             </li>
             <li>
-              <Link href="/about-us">About</Link>
+              <Link href="/About-us">About</Link>
             </li>
             <li>
               <Link href="/contact-us">Contact</Link>
@@ -312,7 +312,7 @@ export default function Header() {
             )}
           </li>
           <li>
-            <Link href="/about-us" onClick={() => setIsOpen(false)}>
+            <Link href="/About-us" onClick={() => setIsOpen(false)}>
               About
             </Link>
           </li>
