@@ -83,6 +83,16 @@ import Whatsapp from "./Components/Whatsapp/page";
 import Script from "next/script";
 import "mapbox-gl/dist/mapbox-gl.css";
 
+export const metadata = {
+  metadataBase: new URL("https://www.cozycabz.com"),
+  title: {
+    default: "CozyCabz | Cab Booking & Car Rental Service in India",
+    template: "%s | CozyCabz",
+  },
+  description:
+    "Book safe, clean, and affordable cabs in 200+ cities with CozyCabz. Enjoy premium rides, expert drivers, 24/7 support, and trusted service for every trip.",
+};
+
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -119,7 +129,7 @@ export default function RootLayout({ children }) {
           strategy="afterInteractive"
         />
 
-        <Script id="google-tags" strategy="afterInteractive">
+        {/* <Script id="google-tags" strategy="afterInteractive">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
@@ -128,7 +138,7 @@ export default function RootLayout({ children }) {
             gtag('config', 'G-CVMF02X5Z3');
             gtag('config', 'AW-596807168');
           `}
-        </Script>
+        </Script> */}
 
         <Script id="google-tags" strategy="afterInteractive">
           {`
@@ -167,11 +177,11 @@ export default function RootLayout({ children }) {
           }}
         />
 
-        <title>Cab Service in India | CozyCabz</title>
+        {/* <title>Cab Service in India | CozyCabz</title>
         <meta
           name="description"
           content="Book safe, clean, and affordable cabs in 200+ cities with CozyCabz. Enjoy premium rides, expert drivers, 24/7 support, and trusted service for every trip."
-        />
+        /> */}
       </head>
 
       <body className={`${geistSans.variable} ${geistMono.variable}`}>

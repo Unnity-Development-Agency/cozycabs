@@ -12,6 +12,15 @@ import NumberCounter from "./Components/NumberCounter/page";
 /* ------------------------------------------------------------------ */
 /* Small inline icon components (single set used by both sliders)     */
 /* ------------------------------------------------------------------ */
+
+export const metadata = {
+  title: "Cab Booking & Car Rental Service in India",
+  description:
+    "Book reliable and affordable cabs in 200+ cities across India. CozyCabz offers airport taxis, outstation cabs, local rentals, buses and tempo travellers.",
+  alternates: {
+    canonical: "/",
+  },
+};
 function ArrowLeftIcon() {
   return (
     <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
