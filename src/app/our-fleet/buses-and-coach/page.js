@@ -8,15 +8,6 @@ import Image from "next/image";
 import NumberCounter from "@/app/Components/NumberCounter/page";
 import Link from "next/link";
 
-
-export const metadata = {
-  title: "Bus and Coach Rental in India",
-  description:
-    "Book buses and coaches for group travel, corporate trips, weddings, school tours and outstation journeys with CozyCabz.",
-  alternates: {
-    canonical: "/our-fleet/buses-and-coach",
-  },
-};
 // Desktop slides
 const desktopSlides = [
   {
