@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import "./contact.css";
 import Header from "../Components/Header/page";
 import SiteFooter from "../Components/Footer/page";
+import Updatepricing from "../Components/Updatepricing/page";
 
 const Contact = () => {
   const [formData, setFormData] = useState({
@@ -179,6 +180,7 @@ const Contact = () => {
   return (
     <>
       <head>
+        
         <title>
           Contact CozyCabz | Get in Touch for Bookings & Partnerships
         </title>
@@ -450,6 +452,7 @@ const Contact = () => {
       </section>
 
       <SiteFooter />
+      <Updatepricing/>
     </>
   );
 };
