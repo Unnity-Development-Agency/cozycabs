@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /Admin-Dashboard
+Disallow: /account
+
+Sitemap: https://www.cozycabz.com/sitemap.xml
